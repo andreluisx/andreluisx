@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, sou o André</h1>
+### Olá 👋, sou o André
 <h4 align="center">
   estudante da área de TI de 22 anos.  Tenho
  experiência com Django e Django REST
@@ -22,7 +22,7 @@
 - **[Found your perfect job](https://github.com/andreluisx/FoundYourPerfectJob):** Aplicação feita com Node, React Native e integração com gemini.
 
 ### 🤝 Vamos Colaborar?
-- Estou aberto a contribuições e parcerias em projetos relacionados a [Web-Development, API, Mobile-Development].
+- Estou aberto a contribuições e parcerias em projetos relacionados a **Web-Development, API, Mobile-Development**.
 
 
 <h3 align="left">Connect with me:</h3>
