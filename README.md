@@ -1,5 +1,12 @@
 <h1 align="center">Olá 👋, sou o André</h1>
-<h3 align="center">Um iniciante no desenvolvimento Full-Stack</h3>
+<h3 align="center">
+  estudante da área de TI de 22 anos.  Tenho
+ experiência com Django e Django REST
+ Framework (Python), React Native (JavaScript),
+ além de conhecimentos em HTML e CSS. Busco
+ oportunidades para desenvolver softwares, APIs e
+ interfaces de aplicativos.
+</h3>
 
 - Atualmente trabalhando com a organização [NESS UFRB](https://github.com/ness-ufrb)
 
