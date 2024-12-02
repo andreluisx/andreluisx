@@ -1,6 +1,6 @@
 # Olá 👋, sou o André
 
-- estudante da área de TI de 22 anos.  Tenho experiência com Django e Django REST Framework (Python), React Native (JavaScript), além de conhecimentos em HTML e CSS. Busco oportunidades para desenvolver softwares, APIs e interfaces de aplicativos.
+- Sou estudante de Ciência da Computação, com 22 anos, vivendo no interior da Bahia. Tenho um grande interesse em explorar tecnologias emergentes e aprimorar minhas habilidades no desenvolvimento de aplicações funcionais e eficientes. Minha jornada acadêmica e pessoal é guiada pela busca constante de conhecimento e inovação. Estou sempre em busca de novas ferramentas, frameworks e práticas que possam elevar a qualidade e a eficiência no desenvolvimento de soluções tecnológicas.
 
 
 # Informações Técnicas
