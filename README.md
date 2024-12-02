@@ -1,6 +1,6 @@
 # Olá 👋, sou o André
 
-- Sou estudante de Ciência da Computação, com 22 anos, vivendo no interior da Bahia. Tenho um grande interesse em explorar tecnologias emergentes e aprimorar minhas habilidades no desenvolvimento de aplicações funcionais e eficientes. Minha jornada acadêmica e pessoal é guiada pela busca constante de conhecimento e inovação. Estou sempre em busca de novas ferramentas, frameworks e práticas que possam elevar a qualidade e a eficiência no desenvolvimento de soluções tecnológicas.
+- Sou estudante de Ciência da Computação, tenho 22 anos e moro no interior da Bahia. Sou apaixonado por tecnologia e adoro explorar novidades na área, sempre buscando aprender e crescer. Gosto de criar aplicações que sejam funcionais e eficientes, e minha jornada é movida pela curiosidade e vontade de inovar. Estou sempre de olho em ferramentas, frameworks e boas práticas que me ajudem a desenvolver soluções tecnológicas melhores e mais práticas.
 
 
 # Informações Técnicas
