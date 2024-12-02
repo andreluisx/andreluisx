@@ -3,9 +3,19 @@
 
 - Atualmente trabalhando com a organização [NESS UFRB](https://github.com/ness-ufrb)
 
-- 🌱 Estou sempre aprendendo **Frameworks, cursos etc.**
+- 🚀 **Aspiro me tornar um desenvolvedor Full-Stack especialista em soluções escaláveis.**
 
 - 📫 Entre em contato **andremice1@hotmail.com**
+  
+- 📚 Cursando **Ciência da computação**
+
+### 🛠️ Projetos em Destaque
+- **[Adote um Animal](https://github.com/andreluisx/Adote-um-Animal):** Aplicação feita com Django, Html e Css.
+- **[Found your perfect job](https://github.com/andreluisx/FoundYourPerfectJob):** Aplicação feita com Node, React Native e integração com gemini.
+
+### 🤝 Vamos Colaborar?
+- Estou aberto a contribuições e parcerias em projetos relacionados a [Web-Development, API, Mobile-Development].
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
