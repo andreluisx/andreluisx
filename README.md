@@ -1,12 +1,7 @@
-### Olá 👋, sou o André
-<h4 align="center">
-  estudante da área de TI de 22 anos.  Tenho
- experiência com Django e Django REST
- Framework (Python), React Native (JavaScript),
- além de conhecimentos em HTML e CSS. Busco
- oportunidades para desenvolver softwares, APIs e
- interfaces de aplicativos.
-</h4>
+# Olá 👋, sou o André
+
+- estudante da área de TI de 22 anos.  Tenho experiência com Django e Django REST Framework (Python), React Native (JavaScript), além de conhecimentos em HTML e CSS. Busco oportunidades para desenvolver softwares, APIs e interfaces de aplicativos.
+
 
 ### Informações
 - Atualmente trabalhando com a organização [NESS UFRB](https://github.com/ness-ufrb)
