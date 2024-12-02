@@ -1,17 +1,17 @@
 <h1 align="center">Olá 👋, sou o André</h1>
 <h3 align="center">Um iniciante no desenvolvimento Full-Stack</h3>
 
-- 🌱 Estou sempre aprendendo **Frameworks, cursos etc.**
+- Atualmente trabalhando com a organização [NESS UFRB](https://github.com/ness-ufrb)
 
-- 👨‍💻 Todos meus projetos estão disponíveis aqui [https://github.com/andreluisx](https://github.com/andreluisx)
+- 🌱 Estou sempre aprendendo **Frameworks, cursos etc.**
 
 - 📫 Entre em contato **andremice1@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/andr%c3%a9-lu%c3%ads-777276298/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andr%c3%a9-lu%c3%ads-777276298/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/andre_luissx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/andre_luissx/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@andre-devls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@andre-devls" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/andré-luís-777276298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andré-luís-777276298" height="30" width="40" /></a>
+<a href="https://instagram.com/andre_luissx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andre_luissx" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/andre-devls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="andre-devls" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
