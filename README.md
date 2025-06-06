@@ -4,9 +4,8 @@
 
 ## 👨‍💻 Sobre Mim
 
-<p align="justify-right">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right‎">
-  
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
+
   Sou um estudante de Ciência da Computação de 22 anos, radicado no interior da Bahia, transformando linhas de código em soluções inovadoras. Minha jornada é movida pela busca constante de conhecimento e pela paixão em criar aplicações que realmente fazem a diferença.
 
   **Princípios que guiam meu trabalho:**
