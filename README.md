@@ -1,32 +1,112 @@
-# Olá 👋, sou o André
+# 🚀 André Luís - Desenvolvedor Full-Stack em Ascensão
 
-- Sou estudante de Ciência da Computação, tenho 22 anos e moro no interior da Bahia. Sou apaixonado por tecnologia e adoro explorar novidades na área, sempre buscando aprender e crescer. Gosto de criar aplicações que sejam funcionais e eficientes, e minha jornada é movida pela curiosidade e vontade de inovar. Estou sempre de olho em ferramentas, frameworks e boas práticas que me ajudem a desenvolver soluções tecnológicas melhores e mais práticas.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full-Stack;Apaixonado+por+Tecnologia;Inovador+Criativo;Soluções+Escaláveis" alt="Typing SVG" />
+</div>
 
+## 👨‍💻 Sobre Mim
 
-# Informações Técnicas
-
-- Atualmente trabalhando com a organização [NESS UFRB](https://github.com/ness-ufrb)
-
-- 🚀 **Aspiro me tornar um desenvolvedor Full-Stack especialista em soluções escaláveis.**
-
-- 📫 Entre em contato **andremice1@hotmail.com**
+<p align="justify">
+  <img align="right" width="300" src="https://i.imgur.com/6Hzo5V5.gif" alt="Dev Animation" />
   
-- 📚 Cursando **Ciência da computação**
+  Sou um estudante de Ciência da Computação de 22 anos, radicado no interior da Bahia, transformando linhas de código em soluções inovadoras. Minha jornada é movida pela busca constante de conhecimento e pela paixão em criar aplicações que realmente fazem a diferença.
 
-### 🛠️ Projetos em Destaque
-- **[Adote um Animal](https://github.com/andreluisx/Adote-um-Animal):** Aplicação feita com Django, Html e Css.
-- **[Found your perfect job](https://github.com/andreluisx/FoundYourPerfectJob):** Aplicação feita com Node, React Native e integração com gemini.
+  **Princípios que guiam meu trabalho:**
 
-### 🤝 Vamos Colaborar?
-- Estou aberto a contribuições e parcerias em projetos relacionados a **Web-Development, API, Mobile-Development**.
+  🧠 Mentalidade de crescimento contínuo  
+  🔍 Atenção obsessiva aos detalhes  
+  🚀 Foco em performance e escalabilidade  
+  🤝 Valorização do trabalho em equipe  
 
+## 🛠️ Habilidades Técnicas
 
-<h3 align="left">Entre em contato:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/andreluiss-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andré-luís-777276298" height="30" width="40" /></a>
-<a href="https://instagram.com/andre_luissx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andre_luissx" height="30" width="40" /></a>
-</p>
+### 💻 Linguagens & Frameworks
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-<h3 align="left">Linguagens e ferramentas:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+### 🎨 Frontend & Design
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
+### 🗃️ Bancos de Dados & DevOps
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## 🌟 Projetos em Destaque
+
+### 🐾 Adote um Animal
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+Plataforma para adoção responsável de animais com sistema de match entre adotantes e pets.
+
+**Features:**
+- ✔️ Sistema de perfis completos para animais
+- ✔️ Filtros inteligentes de compatibilidade
+- ✔️ Processo de adoção simplificado
+
+### 💼 Found your perfect job
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+Aplicativo mobile que usa IA para conectar candidatos a vagas ideais.
+
+**Inovações:**
+- 🧠 Integração com Gemini AI para match perfeito
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreluisx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluisx&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andreluisx&theme=dracula" alt="andreluisx" />
+</div>
+
+## 🏆 Conquistas
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=andreluisx&theme=dracula&row=1&column=7" />
+</div>
+
+## 📈 Gráfico de Contribuição
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andreluisx&theme=dracula" />
+</div>
+
+## 📫 Vamos Conectar!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/andreluiss-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:andremice1@hotmail.com">
+    <img src="https://img.shields.io/badge/-Outlook-%230078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
+  </a>
+  <a href="https://instagram.com/andre_luissx" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=andreluisx&label=Profile%20views&color=0e75b6&style=flat" alt="andreluisx" />
+  <a href="https://github.com/andreluisx?tab=followers">
+    <img src="https://img.shields.io/github/followers/andreluisx?label=Followers&style=social" alt="GitHub Followers">
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <strong>⭐️ De andreluisx - Transformando ideias em realidade, um commit de cada vez!</strong>
+</div>
