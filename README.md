@@ -1,13 +1,13 @@
-# 🚀 André Luís - Desenvolvedor Full-Stack em Ascensão
+# 🚀 André Luís - Desenvolvedor Full-Stack
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full-Stack;Apaixonado+por+Tecnologia;Inovador+Criativo;Soluções+Escaláveis" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE&height=120&section=header&text=André%20Luís&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
 </div>
 
 ## 👨‍💻 Sobre Mim
 
 <p align="justify">
-  <img align="right" width="300" src="https://i.imgur.com/6Hzo5V5.gif" alt="Dev Animation" />
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="center">
   
   Sou um estudante de Ciência da Computação de 22 anos, radicado no interior da Bahia, transformando linhas de código em soluções inovadoras. Minha jornada é movida pela busca constante de conhecimento e pela paixão em criar aplicações que realmente fazem a diferença.
 
