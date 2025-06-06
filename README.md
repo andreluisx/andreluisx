@@ -1,13 +1,11 @@
-# 🚀 André Luís - Desenvolvedor Full-Stack
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE&height=120&section=header&text=André%20Luís&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE&height=120&section=header&text=André%20Luís%20Desenvolvedor%20Full-Stack&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
 </div>
 
 ## 👨‍💻 Sobre Mim
 
 <p align="justify">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="center">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right‎">
   
   Sou um estudante de Ciência da Computação de 22 anos, radicado no interior da Bahia, transformando linhas de código em soluções inovadoras. Minha jornada é movida pela busca constante de conhecimento e pela paixão em criar aplicações que realmente fazem a diferença.
 
