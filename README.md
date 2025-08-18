@@ -10,8 +10,8 @@
 
   **Princípios que guiam meu trabalho:**
 
-  🧠 Mentalidade de crescimento contínuo  
-  🔍 Atenção obsessiva aos detalhes  
+  🧠 Mentalidade de aprendizado contínuo  
+  🔍 Atenção aos detalhes  
   🚀 Foco em performance e escalabilidade  
   🤝 Valorização do trabalho em equipe  
 
