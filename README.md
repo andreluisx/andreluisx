@@ -6,7 +6,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
 
-  Sou um estudante de Ciência da Computação de 22 anos, radicado no interior da Bahia, transformando linhas de código em soluções inovadoras. Minha jornada é movida pela busca constante de conhecimento e pela paixão em criar aplicações que realmente fazem a diferença.
+  Sou um estudante de Ciência da Computação de 22 anos, nasci e cresci no interior da Bahia, Sempre gostei de tecnologia e de criar coisas. Estou sempre em busca de conhecimento e pretendo me tornar um desenvolvedor de excelência.
 
   **Princípios que guiam meu trabalho:**
 
