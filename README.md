@@ -1,101 +1,91 @@
 <div align="center">
-
-# André Luís  
-### Full-Stack Developer | Java & TypeScript
-
-Construindo sistemas escaláveis, performáticos e bem arquitetados.
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:2563EB&height=160&section=header&text=André%20Luís&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </div>
 
----
-
-## 👨‍💻 Sobre mim
-
-Sou estudante de Ciência da Computação (22 anos), apaixonado por tecnologia, arquitetura de software e construção de soluções escaláveis.
-
-Foco em:
-
-- 🧠 Aprendizado contínuo  
-- 🏗️ Arquitetura limpa  
-- 🚀 Performance e escalabilidade  
-- 🔍 Código bem estruturado  
-- 🤝 Trabalho em equipe  
+<h3 align="center">
+Full-Stack Developer • Java & TypeScript • Arquitetura & Escalabilidade
+</h3>
 
 ---
 
-# 🛠️ Stack Principal
+## 👨‍💻 Sobre Mim
 
-## 💻 Linguagens
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="380px" align="right"/>
 
-![Java](https://skillicons.dev/icons?i=java)
-![Python](https://skillicons.dev/icons?i=python)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![JavaScript](https://skillicons.dev/icons?i=js)
+Sou estudante de **Ciência da Computação (22 anos)**, nascido no interior da Bahia.  
+Apaixonado por tecnologia, sistemas bem estruturados e construção de soluções escaláveis.
 
----
+Meu foco é evoluir constantemente e construir software com:
 
-## ☕ Backend
-
-![Spring](https://skillicons.dev/icons?i=spring)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![NestJS](https://skillicons.dev/icons?i=nestjs)
-![Django](https://skillicons.dev/icons?i=django)
-
-**Também trabalho com:**
-- Spring Security
-- JPA / Hibernate
-- REST APIs
-- Autenticação JWT
-- Arquitetura MVC
+🧠 Mentalidade de aprendizado contínuo  
+🏗️ Arquitetura limpa  
+🚀 Performance e escalabilidade  
+🔍 Atenção aos detalhes  
+🤝 Trabalho em equipe  
 
 ---
 
-## 🎨 Frontend
+# 🛠️ Stack Tecnológica
 
-![Angular](https://skillicons.dev/icons?i=angular)
-![React](https://skillicons.dev/icons?i=react)
-![NextJS](https://skillicons.dev/icons?i=nextjs)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
+## ☕ Backend (Java Ecosystem)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
 
 ---
 
-## 📱 Mobile
+## 🚀 Backend (Outras Tecnologias)
 
-![React Native](https://skillicons.dev/icons?i=react)
-![Expo](https://skillicons.dev/icons?i=expo)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+---
+
+## 🎨 Frontend & Mobile
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
 ## 🗄️ Banco de Dados
 
-![Postgres](https://skillicons.dev/icons?i=postgres)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
 ## ⚙️ DevOps & Ferramentas
 
-![Docker](https://skillicons.dev/icons?i=docker)
-![Git](https://skillicons.dev/icons?i=git)
-![Figma](https://skillicons.dev/icons?i=figma)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
 # 🌟 Projetos em Destaque
 
 ## 🐾 Adote um Animal
-Plataforma web para adoção responsável com sistema de compatibilidade inteligente.
+Plataforma web para adoção responsável com sistema inteligente de compatibilidade.
 
 **Stack:** Django + PostgreSQL  
-✔️ Sistema de perfis  
-✔️ Filtros avançados  
+✔️ Sistema de perfis completos  
+✔️ Filtros inteligentes  
 ✔️ Processo estruturado  
 
 ---
 
 ## 💼 Found Your Perfect Job
-Aplicativo mobile que usa IA para conectar candidatos às vagas ideais.
+Aplicativo mobile que utiliza IA para conectar candidatos às vagas ideais.
 
 **Stack:** React Native + Node.js  
 🧠 Matching inteligente com IA  
@@ -106,25 +96,33 @@ Aplicativo mobile que usa IA para conectar candidatos às vagas ideais.
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=andreluisx&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=andreluisx&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluisx&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📫 Contato
-
-<div align="center">
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/andreluiss-dev/)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/andre_luissx)
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluisx&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
 ---
 
+# 📈 Contribuições
+
 <div align="center">
-⭐ Construindo sistemas sólidos, um commit de cada vez.
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andreluisx&theme=react-dark&hide_border=true"/>
+</div>
+
+---
+
+# 📫 Vamos Conectar
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreluiss-dev/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andre_luissx)
+
+</div>
+
+---
+
+<div align="center">
+  ⭐ Transformando ideias em realidade, um commit de cada vez.
 </div>
