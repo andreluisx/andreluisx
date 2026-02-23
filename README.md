@@ -72,26 +72,6 @@ Meu foco é evoluir constantemente e construir software com:
 
 ---
 
-# 🌟 Projetos em Destaque
-
-## 🐾 Adote um Animal
-Plataforma web para adoção responsável com sistema inteligente de compatibilidade.
-
-**Stack:** Django + PostgreSQL  
-✔️ Sistema de perfis completos  
-✔️ Filtros inteligentes  
-✔️ Processo estruturado  
-
----
-
-## 💼 Found Your Perfect Job
-Aplicativo mobile que utiliza IA para conectar candidatos às vagas ideais.
-
-**Stack:** React Native + Node.js  
-🧠 Matching inteligente com IA  
-
----
-
 # 📈 Contribuições
 
 <div align="center">
