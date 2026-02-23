@@ -12,7 +12,7 @@ Full-Stack Developer • Java & TypeScript • Arquitetura & Escalabilidade
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="380px" align="right"/>
 
-Sou estudante de **Ciência da Computação (22 anos)**, nascido no interior da Bahia.  
+Sou estudante de **Ciência da Computação**, nascido no interior da Bahia.  
 Apaixonado por tecnologia, sistemas bem estruturados e construção de soluções escaláveis.
 
 Meu foco é evoluir constantemente e construir software com:
